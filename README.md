@@ -18,7 +18,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github&logoColor=white)](https://github.com/Monika-RJ)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/Monika_07)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/monikarj)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/monikaj4hve/)
 
 ---
 
@@ -29,7 +29,7 @@
 
 **Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=MySQL&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=MongoDB&logoColor=white)
 
-**Tools & Platforms:** ![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=GitHub&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat&logo=PowerBI&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat&logo=Tableau&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=Postman&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-purple?style=flat&logo=Figma&logoColor=white) ![Render](https://img.shields.io/badge/-Render-blue?style=flat&logo=Render&logoColor=white) ![Netlify](https://img.shields.io/badge/-Netlify-lightblue?style=flat&logo=Netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=Vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/-Anaconda-green?style=flat&logo=Anaconda&logoColor=white)
+**Tools & Platforms:** ![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=GitHub&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat&logo=PowerBI&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat&logo=Tableau&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=Postman&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-purple?style=flat&logo=Figma&logoColor=white) ![Render](https://img.shields.io/badge/-Render-blue?style=flat&logo=Render&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=Vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/-Anaconda-green?style=flat&logo=Anaconda&logoColor=white)
 
 ---
 
