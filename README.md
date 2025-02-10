@@ -17,17 +17,19 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/monika-r-j/)
 [![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github&logoColor=white)](https://github.com/Monika-RJ)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/Monika_07)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/monikarj)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/)
 
 ---
 
 ### 💻 Tech Stack:
-**Languages:** Java, Python, C, R, SQL, JavaScript, HTML, CSS
+**Languages:** ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=Java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=Python&logoColor=white) ![C](https://img.shields.io/badge/-C-blue?style=flat&logo=C&logoColor=white) ![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat&logo=MySQL&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=CSS3&logoColor=white)
 
-**Frameworks & Libraries:** TensorFlow, Keras, NumPy, Pandas, Scikit-learn, React, Express.js, Flutter, TailwindCSS, Bootstrap
+**Frameworks & Libraries:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat&logo=NumPy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-blue?style=flat&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-orange?style=flat&logo=scikit-learn&logoColor=white) ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?style=flat&logo=Express&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=Flutter&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-teal?style=flat&logo=TailwindCSS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=Bootstrap&logoColor=white)
 
-**Databases:** MySQL, MongoDB
+**Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=MySQL&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=MongoDB&logoColor=white)
 
-**Tools & Platforms:** Git, GitHub, Power BI, Tableau, Postman, Figma, Render, Netlify, Vercel, Anaconda
+**Tools & Platforms:** ![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=GitHub&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat&logo=PowerBI&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat&logo=Tableau&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=Postman&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-purple?style=flat&logo=Figma&logoColor=white) ![Render](https://img.shields.io/badge/-Render-blue?style=flat&logo=Render&logoColor=white) ![Netlify](https://img.shields.io/badge/-Netlify-lightblue?style=flat&logo=Netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=Vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/-Anaconda-green?style=flat&logo=Anaconda&logoColor=white)
 
 ---
 
