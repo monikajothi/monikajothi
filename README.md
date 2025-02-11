@@ -1,7 +1,7 @@
 ## Hi there, I'm Monika Jothi! 👋
 💻 Data Science & Full Stack Developer
 
-🔭 I’m currently working on AI-driven projects and full-stack applications.
+🔭 I’m currently working on Turf Booking Application.
 
 🌱 I’m currently learning advanced MERN Stack and deep learning.
 
